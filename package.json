@@ -1,0 +1,17 @@
+{
+  "name": "vscode_typescript_env",
+  "version": "1.0.0",
+  "description": "TypeScript Practice",
+  "main": "HelloWorld.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-koara:koara-local/VSCodeTypeScriptEnv.git"
+  },
+  "author": "",
+  "license": "MIT License"
+}
